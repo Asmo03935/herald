@@ -1,6 +1,6 @@
 <template>
   <EditableCollection
-    title="Currency"
+    title="Currencies"
     registration_name="currencies"
     :endpoint="endpoint"
     :display_component="display_component"
